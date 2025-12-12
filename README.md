@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @Jowltenha
-- 👀 I’m interested in progaming and AI
-- 🌱 I’m currently learning HTML 5, CSS 3 and Javascript
-- 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me joaopedro.rigoto@gmail.com
-- ⚡ Fun fact: I love programing on my daily days.
+- 👋 Hi, I’m @João Pedro Barboza Rigoto Ferreira
+-  I’m interested in progaming and AI
+-  I’m currently learning HTML 5, CSS 3, Javascript, Python and SQL(ALCHEMY, LITE, MYSQL)
+-  How to reach me joaopedro.rigoto@gmail.com
 
 <!---
 Jowltenha/Jowltenha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
