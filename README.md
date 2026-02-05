@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @João Pedro Barboza Rigoto Ferreira
 -  I’m interested in progaming and AI
--  I’m currently learning HTML 5, CSS 3, Javascript, Python and SQL(ALCHEMY, LITE, MYSQL)
+-  I’m currently learning HTML 5, CSS 3, Javascript, Python and SQL(ALCHEMY, LITE, MYSQL), Java, C# and .NET
 -  How to reach me joaopedro.rigoto@gmail.com
 
 <!---
