@@ -22,5 +22,7 @@ Outros: AutoCAD e Normas de Desenho Técnico, Draw.io.
 
 
 📫 Como me encontrar
-📧 Email: joaopedro.rigoto@gmail.com
-💼 LinkedIn: in/joaopedrobarboza
+
+- 📧 Email: joaopedro.rigoto@gmail.com
+
+- 💼 LinkedIn: in/joaopedrobarboza
