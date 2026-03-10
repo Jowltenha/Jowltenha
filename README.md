@@ -25,4 +25,4 @@ Outros: AutoCAD e Normas de Desenho Técnico, Draw.io.
 
 - 📧 Email: joaopedro.rigoto@gmail.com
 
-- 💼 LinkedIn: in/joaopedrobarboza
+- 💼 LinkedIn: www.linkedin.com/in/joaopedrobarboza
