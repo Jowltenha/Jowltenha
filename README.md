@@ -6,9 +6,78 @@
 - Objetivo: Expandir meu portfólio com projetos robustos em Java e consolidar minha base em desenvolvimento backend.
 - Fora das telas: Gosto de desafios de resistência e foco, como corrida de longa distância.
 
-## Tecnologias e Ferramentas## Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
+<img 
+  align="left"
+  alt="HTML"
+  title="HTML"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+  align="left"
+  alt="CSS"
+  title="CSS"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+/>
+<img 
+  align="left"
+  alt="Javascript"
+  title="Javascript"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+/>
+<img 
+  align="left"
+  alt="Python"
+  title="Python"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>
+<img 
+  align="left"
+  alt="MySQL"
+  title="MySQL"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
+/>
+<img 
+  align="left"
+  alt="SQL"
+  title="SQL"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
+/>
+<img 
+  align="left"
+  alt="Java"
+  title="Java"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+/>
+<img 
+  align="left"
+  alt="C#"
+  title="C#"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
+/>
+<br/>
+<br/>
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jowltenha&layout=donut&hide=jupyter%20notebook)
 
+      
 Outros: Google Looker Studio, AutoCAD e Normas de Desenho Técnico, Draw.io.
 
 
