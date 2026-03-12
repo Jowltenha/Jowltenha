@@ -73,7 +73,6 @@
 <br/>
 <br/>
 
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jowltenha&layout=donut&hide=jupyter%20notebook)
 
       
@@ -88,6 +87,5 @@ Outros: Google Looker Studio, AutoCAD e Normas de Desenho Técnico, Draw.io.
 
 📫 Como me encontrar
 
-- 📧 Email: joaopedro.rigoto@gmail.com
-
-- 💼 LinkedIn: www.linkedin.com/in/joaopedrobarboza
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaopedrobarboza)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaopedro.rigoto@gmail.com)
