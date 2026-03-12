@@ -6,10 +6,11 @@
 - Objetivo: Expandir meu portfólio com projetos robustos em Java e consolidar minha base em desenvolvimento backend.
 - Fora das telas: Gosto de desafios de resistência e foco, como corrida de longa distância.
 
-## Tecnologias e Ferramentas
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jowltenha&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+## Tecnologias e Ferramentas## Tecnologias e Ferramentas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jowltenha&layout=donut&hide=jupyter%20notebook)
 
 Outros: Google Looker Studio, AutoCAD e Normas de Desenho Técnico, Draw.io.
+
 
 ## Estatísticas e Projetos em Destaque
 - AT---IMDB-TOP-250-: Projeto de final de período focado em WebScraping, tratamento de dados com Pandas e persistência em SQL.
