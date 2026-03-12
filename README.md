@@ -4,7 +4,6 @@
 ## Sobre Mim
 - Foco atual: Aprofundando meus conhecimentos em Java, C# e o ecossistema .NET.
 - Objetivo: Expandir meu portfólio com projetos robustos em Java e consolidar minha base em desenvolvimento backend.
-- Fora das telas: Gosto de desafios de resistência e foco, como corrida de longa distância.
 
 ## Tecnologias e Ferramentas
 <img 
