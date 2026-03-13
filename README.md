@@ -1,7 +1,7 @@
 # Olá, eu sou o João Pedro Barboza! 👋
 - Engenheiro da Computação em formação pelo IFRJ e graduando em Análise e Desenvolvimento de Sistemas (ADS) pela Infnet.
 
-## Sobre Mim
+## Sobre Mim:
 - Foco atual: Aprofundando meus conhecimentos em Java, C# e o ecossistema .NET.
 - Objetivo: Expandir meu portfólio com projetos robustos em Java e consolidar minha base em desenvolvimento backend.
 
@@ -79,13 +79,13 @@
 Outros: Google Looker Studio, AutoCAD e Normas de Desenho Técnico, Draw.io.
 
 
-## Estatísticas e Projetos em Destaque
+## Estatísticas e Projetos em Destaque:
 - AT---IMDB-TOP-250-: Projeto de final de período focado em WebScraping, tratamento de dados com Pandas e persistência em SQL.
 
 - C-Sharp-e-.NET: Repositório dedicado à revisão de matéria e exercícios de lógica aplicada ao ecossistema .NET.
 
 
-📫 Como me encontrar
+***📫 Como me encontrar:***
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaopedrobarboza)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaopedro.rigoto@gmail.com)
