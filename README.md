@@ -73,7 +73,7 @@
 <br/>
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jowltenha&layout=donut&hide=jupyter%20notebook)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jowltenha&layout=donut)
 
       
 Outros: Google Looker Studio, AutoCAD e Normas de Desenho Técnico, Draw.io.
