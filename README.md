@@ -82,8 +82,6 @@ Outros: Google Looker Studio, AutoCAD e Normas de Desenho Técnico, Draw.io.
 ## Estatísticas e Projetos em Destaque:
 - AT---IMDB-TOP-250-: Projeto de final de período focado em WebScraping, tratamento de dados com Pandas e persistência em SQL.
 
-- C-Sharp-e-.NET: Repositório dedicado à revisão de matéria e exercícios de lógica aplicada ao ecossistema .NET.
-
 - SuperBicicletas2026App: Projeto de e-commerce desenvolvido para a disciplina de Desenvolvimento Web com .NET e Bases de Dados.
 
 ***📫 Como me encontrar:***
