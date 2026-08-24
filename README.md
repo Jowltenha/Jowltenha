@@ -2,9 +2,8 @@
 - Engenheiro da Computação em formação pelo IFRJ e graduando em Análise e Desenvolvimento de Sistemas (ADS) pela Infnet.
 
 ## Sobre Mim:
-- Foco atual: Aprofundando meus conhecimentos em Java, C# e o ecossistema .NET.
-- Objetivo: Expandir meu portfólio com projetos robustos em Java e consolidar minha base em desenvolvimento backend.
-
+- Foco atual: Desenvolvimento de Agentes Inteligentes.
+  
 ## Tecnologias e Ferramentas
 <img 
   align="left"
