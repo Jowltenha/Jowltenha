@@ -78,7 +78,7 @@
 Outros: Google Looker Studio, AutoCAD e Normas de Desenho Técnico, Draw.io.
 
 
-## Estatísticas e Projetos em Destaque:
+## Projetos em Destaque:
 - AT---IMDB-TOP-250-: Projeto de final de período focado em WebScraping, tratamento de dados com Pandas e persistência em SQL.
 
 - Projeto_Wheels: Projeto de final do período que utilizei uma API de busca de endereço automático em Java.
