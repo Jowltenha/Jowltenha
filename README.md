@@ -72,9 +72,10 @@
 <br/>
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jowltenha&layout=donut&hide=jupyter%20notebook)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jowltenha&layout=donut)
+<!-- &hide=jupyter%20notebook -->
 
-      
+
 Outros: Google Looker Studio, AutoCAD e Normas de Desenho Técnico, Draw.io.
 
 
@@ -84,6 +85,7 @@ Outros: Google Looker Studio, AutoCAD e Normas de Desenho Técnico, Draw.io.
 - Projeto_Wheels: Projeto de final do período que utilizei uma API de busca de endereço automático em Java.
 
 - IT_Helpdesk_Agent: Agente de IA para triagem automática de suporte técnico N1 em Python, utilizando prompts anatômicos e validação estrita de esquemas em JSON via Pydantic.
+
 ***📫 Como me encontrar:***
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaopedrobarboza)
