@@ -72,7 +72,7 @@
 <br/>
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jowltenha&layout=donut)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jowltenha&layout=donut&hide=jupyter%20notebook)
 <!-- &hide=jupyter%20notebook -->
 
 
